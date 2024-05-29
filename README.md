@@ -1,2 +1,2 @@
-# ** Exercice d'introduction PHP **
-## * formation Becode *
+# **Exercice d'introduction PHP**
+## *formation Becode*
